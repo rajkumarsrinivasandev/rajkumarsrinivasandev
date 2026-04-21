@@ -31,13 +31,13 @@ Mobile Architect specializing in building scalable mobile applications using Kot
 </p>
 
 
-## Github Stats
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarsrinivasandev&layout=compact) -->
+<!-- ## Github Stats
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarsrinivasandev&layout=compact)
 <p style="display: flex; justify-contect: space-between;">
 <img src="https://github-contribution-stats.vercel.app/api/?username=rajkumarsrinivasandev" />
 &nbsp;&nbsp;&nbsp;
 <img align="top" src="https://streak-stats.demolab.com?user=rajkumarsrinivasandev&mode=weekly&currStreakLabel=EB5454&fire=EB5454&ring=EB5454&currStreakNum=EB5454&sideNums=13A420&sideLabels=13A420" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rajkumarsrinivasandev)
